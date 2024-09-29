@@ -1,3 +1,2 @@
-* Descripcion del proyecto
-Pagina web estilo arbol de links para mostrar redes sociales hecho de manera vanila HTML y CSS.
-Proximamente mejorado con frameworks como Bootstrap o tailwinds 
+# Descripcion del proyecto
+This is the vanilla version of my links page (social media page) by using HTML and CSS. In the future I will make it by using a framework as such Tailwind, etc.
